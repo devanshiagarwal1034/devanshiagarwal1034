@@ -55,7 +55,7 @@ Here are some of the key projects I've worked on:
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/devanshi-agarwal-23303223a/))
+- [**LinkedIn**](https://www.linkedin.com/in/devanshi-agarwal-23303223a/)
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
 
