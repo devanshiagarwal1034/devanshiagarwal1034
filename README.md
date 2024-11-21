@@ -57,7 +57,7 @@ Here are some of the key projects I've worked on:
 
 - [**LinkedIn**](https://www.linkedin.com/in/devanshi-agarwal-23303223a/)
 - [**Email**](devanshiagarwal1034@gmail.com)
-- [**Personal Website**](https://devanshiec1034.wixsite.com/devanshi-portfolio))
+- [**Personal Website**](https://devanshiec1034.wixsite.com/devanshi-portfolio)
 
 
 
