@@ -35,7 +35,7 @@ Here are some of the key projects I've worked on:
    - **Tech Used**: DBT, Snowflake  
    - **Description**: Designed data models and transformations using DBT to simplify data pipeline workflows and enhance data quality. Integrated DBT with Snowflake for optimized, automated data processing.
 
-[Click here to view more projects!](https://github.com/yourusername)
+[Click here to view more projects!](https://github.com/devanshiagarwal1034?tab=repositories)
 
 
 
@@ -55,7 +55,7 @@ Here are some of the key projects I've worked on:
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourname/)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/devanshi-agarwal-23303223a/))
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
 
