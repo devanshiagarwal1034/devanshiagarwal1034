@@ -18,9 +18,6 @@ I specialize in:
 - **DevOps**: CI/CD with Jenkins, Docker  for data pipelines
 - **Big Data Technologies**: PySpark, AWS Glue, and Lambda functions for big data processing
 
-![Tech Stack](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png)
-
----
 
 ## 💼 Projects
 
@@ -40,7 +37,8 @@ Here are some of the key projects I've worked on:
 
 [Click here to view more projects!](https://github.com/yourusername)
 
----
+
+
 
 ## 🛠️ Tools & Technologies
 
@@ -52,52 +50,37 @@ Here are some of the key projects I've worked on:
 ![Airflow](https://img.shields.io/badge/-Airflow-lightgrey)
 ![Matillion](https://img.shields.io/badge/-Matillion-green)
 
----
 
-## 🌱 My Current Focus
 
-Currently, I am focused on:
-- Enhancing my knowledge of **DataOps** and **Cloud-Native Data Engineering** practices.
-- Building end-to-end **data pipelines** using **AWS**, **DBT**, and **Airflow**.
-- Contributing to open-source projects related to data engineering.
-- Exploring **ML and AI** integration with data pipelines.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
----
 
 ## 🤝 Let's Connect
 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourname/)
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 - **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
 
----
 
-## 📚 Learning & Development
+
+
+
+## 🌱 Learning & Development
 
 I'm always looking to learn new skills and stay up-to-date with the latest trends in data engineering. Here are some areas I'm currently focusing on:
 - **Data Engineering**: Advanced transformations with DBT and PySpark.
 - **Cloud**: AWS certifications (Solutions Architect, Big Data).
 - **Automation**: Streamlining CI/CD pipelines for data workflows.
 
----
+
+
 
 ## 🏆 Achievements & Certifications
 
-- **AWS Certified Solutions Architect**  
+- **AWS Certified Cloud Practioner**  
 - **Certified Data Engineer - Snowflake**  
 - **DBT Fundamentals Certification**  
 - **Airflow Proficiency Certification**
 
-![Certifications](https://media.giphy.com/media/26ufcHHwf6gC7aYok/giphy.gif)
 
----
 
 ## 📝 Recent Blog Posts & Articles
 
