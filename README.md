@@ -56,8 +56,8 @@ Here are some of the key projects I've worked on:
 ## 🤝 Let's Connect
 
 - [**LinkedIn**](https://www.linkedin.com/in/devanshi-agarwal-23303223a/)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
+- [**Email**](devanshiagarwal1034@gmail.com)
+- [**Personal Website**](https://devanshiec1034.wixsite.com/devanshi-portfolio))
 
 
 
@@ -67,7 +67,6 @@ Here are some of the key projects I've worked on:
 
 I'm always looking to learn new skills and stay up-to-date with the latest trends in data engineering. Here are some areas I'm currently focusing on:
 - **Data Engineering**: Advanced transformations with DBT and PySpark.
-- **Cloud**: AWS certifications (Solutions Architect, Big Data).
 - **Automation**: Streamlining CI/CD pipelines for data workflows.
 
 
@@ -75,19 +74,16 @@ I'm always looking to learn new skills and stay up-to-date with the latest trend
 
 ## 🏆 Achievements & Certifications
 
-- **AWS Certified Cloud Practioner**  
-- **Certified Data Engineer - Snowflake**  
-- **DBT Fundamentals Certification**  
-- **Airflow Proficiency Certification**
+- **AWS Certified Cloud Practitioner**  
+- **Google Certified Data Analyst**  
 
 
 
 ## 📝 Recent Blog Posts & Articles
 
 Check out my recent blog posts and articles:
-- [Building Scalable Data Pipelines with DBT](https://medium.com/@yourusername/building-scalable-data-pipelines-with-dbt)
-- [Leveraging AWS Glue for Data Transformation](https://medium.com/@yourusername/leveraging-aws-glue-for-data-transformation)
+- [Building Scalable Data Pipelines with AWS](https://medium.com/@devanshiec1034/create-an-end-to-end-data-pipeline-to-ingest-transform-store-analyze-and-visualize-data-using-ec21aa56a769))
+- [Use AWS Rekognition for Facial Recognition and Analysis](https://medium.com/@devanshiec1034/use-amazon-rekognition-for-facial-recognition-and-analysis-0c68ca6d579e)
 
----
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
