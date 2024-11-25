@@ -31,7 +31,7 @@ Here are some of the key projects I've worked on:
    - **Tech Used**: Airflow, SQL, AWS  
    - **Description**: Developed workflows in Airflow to automate and orchestrate complex ETL jobs. Integrated various data sources like S3 and RDS to create efficient and scalable workflows.
 
-### 3. **DBT-Pipeline-for-Travel-Data-Analytics **  
+### 3. **DBT-Pipeline-for-Travel-Data-Analytics**  
    - **Tech Used**: DBT, Snowflake  
    - **Description**: Designed data models and transformations using DBT to simplify data pipeline workflows and enhance data quality. Integrated DBT with Snowflake for optimized, automated data processing.
 
