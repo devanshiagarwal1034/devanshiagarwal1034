@@ -1,7 +1,7 @@
 
 # Hi, I'm Devanshi Agarwal 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Engineer** with over **5 years of experience** in building and optimizing scalable data pipelines, ETL processes, and transforming raw data into actionable insights. My expertise spans across **Python**, **AWS**, **SQL**, **Snowflake**, **DBT**, **Airflow**, and more.
+🌟 Welcome to my GitHub profile! I'm a passionate **Data Engineer** with over **5 years of experience** in building and optimizing scalable data pipelines, ETL processes, and transforming raw data into actionable insights. My expertise spans across **Python**, **AWS**, **SQL**, **Snowflake**, **DBT**, **Airflow**, and more.
 
 
 ## 🚀 Skills & Technologies
@@ -37,15 +37,19 @@ Here are some of the key projects I've worked on:
 
 [Click here to view more projects!](https://github.com/devanshiagarwal1034?tab=repositories)
 
+<br>  
 
 
+## 💻 Tools
 
-## 🛠️ Tools & Technologies
+<img src="https://github.com/user-attachments/assets/03213c43-315e-4c48-b630-2f4ee3f27895" alt="AWS" width="90"/>
+<img src="https://github.com/user-attachments/assets/4798bb46-f7d2-45db-8c47-75370d31a00d" alt="DBT" width="120"/>
+<img src="https://github.com/user-attachments/assets/ef4698eb-0ccb-4e04-ac4c-0989760791ba" alt="Snowflake" width="150"/>
+<img src="https://github.com/user-attachments/assets/e1d05643-6966-46ab-9152-78fe5d2d2f49" alt="Airflow" width="100"/>
+<img src="https://github.com/user-attachments/assets/48f5a4c2-8a21-4cfa-8458-7aebe8e605f3" alt="Airflow" width="70"/>
 
-<img src="https://github.com/user-attachments/assets/7a202059-7b48-4895-90c9-999f9dfdfe3f" alt="Airflow Data Pipeline" width="60"/>
 
-
-
+<br>  
 
 ## 🤝 Let's Connect
 
@@ -54,7 +58,7 @@ Here are some of the key projects I've worked on:
 - [**Personal Website**](https://devanshiec1034.wixsite.com/devanshi-portfolio)
 
 
-
+<br>  
 
 
 ## 🌱 Learning & Development
@@ -64,14 +68,14 @@ I'm always looking to learn new skills and stay up-to-date with the latest trend
 - **Automation**: Streamlining CI/CD pipelines for data workflows.
 
 
-
+<br>  
 
 ## 🏆 Achievements & Certifications
 
-- **AWS Certified Cloud Practitioner**  
-- **Google Certified Data Analyst**  
+- 🏅 **AWS Certified Cloud Practitioner**  
+- 🏅 **Google Certified Data Analyst**  
 
-
+<br>  
 
 ## 📝 Recent Blog Posts & Articles
 
@@ -79,5 +83,6 @@ Check out my recent blog posts and articles:
 - [Building Scalable Data Pipelines with AWS](https://medium.com/@devanshiec1034/create-an-end-to-end-data-pipeline-to-ingest-transform-store-analyze-and-visualize-data-using-ec21aa56a769))
 - [Use AWS Rekognition for Facial Recognition and Analysis](https://medium.com/@devanshiec1034/use-amazon-rekognition-for-facial-recognition-and-analysis-0c68ca6d579e)
 
-
-Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
+<br>  
+🌟 Thank you for visiting my GitHub profile!
+Feel free to dive into my repositories, explore my projects, and connect with me. Let's collaborate to build innovative data solutions and make an impact in the world of data engineering! 🚀
