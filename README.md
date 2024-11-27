@@ -46,21 +46,21 @@ Here are some of the key projects I've worked on:
 <img src="https://github.com/user-attachments/assets/ef4698eb-0ccb-4e04-ac4c-0989760791ba" alt="Snowflake" width="150"/>
 <img src="https://github.com/user-attachments/assets/e1d05643-6966-46ab-9152-78fe5d2d2f49" alt="Airflow" width="100"/>
 <img src="https://github.com/user-attachments/assets/48f5a4c2-8a21-4cfa-8458-7aebe8e605f3" alt="Airflow" width="70"/>
-
+<br>  
 
 ## 🤝 Let's Connect
 
 - [**LinkedIn**](https://www.linkedin.com/in/devanshi-agarwal-23303223a/)
 - [**Email**](devanshiagarwal1034@gmail.com)
 - [**Personal Website**](https://devanshiec1034.wixsite.com/devanshi-portfolio)
-
+<br>  
 
 ## 🌱 Learning & Development
 
 I'm always looking to learn new skills and stay up-to-date with the latest trends in data engineering. Here are some areas I'm currently focusing on:
 - **Data Engineering**: Advanced transformations with DBT and PySpark.
 - **Automation**: Streamlining CI/CD pipelines for data workflows.
-
+<br>  
 
 ## 🏆 Achievements & Certifications
 
