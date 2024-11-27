@@ -42,13 +42,7 @@ Here are some of the key projects I've worked on:
 
 ## 🛠️ Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-blue)
-![AWS](https://img.shields.io/badge/-AWS-orange)
-![SQL](https://img.shields.io/badge/-SQL-blue)
-![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue)
-![DBT](https://img.shields.io/badge/-DBT-black)
-![Airflow](https://img.shields.io/badge/-Airflow-lightgrey)
-![Matillion](https://img.shields.io/badge/-Matillion-green)
+<img src="https://github.com/user-attachments/assets/7a202059-7b48-4895-90c9-999f9dfdfe3f" alt="Airflow Data Pipeline" width="60"/>
 
 
 
