@@ -39,7 +39,6 @@ Here are some of the key projects I've worked on:
 
 <br>  
 
-
 ## 💻 Tools
 
 <img src="https://github.com/user-attachments/assets/03213c43-315e-4c48-b630-2f4ee3f27895" alt="AWS" width="90"/>
@@ -49,16 +48,11 @@ Here are some of the key projects I've worked on:
 <img src="https://github.com/user-attachments/assets/48f5a4c2-8a21-4cfa-8458-7aebe8e605f3" alt="Airflow" width="70"/>
 
 
-<br>  
-
 ## 🤝 Let's Connect
 
 - [**LinkedIn**](https://www.linkedin.com/in/devanshi-agarwal-23303223a/)
 - [**Email**](devanshiagarwal1034@gmail.com)
 - [**Personal Website**](https://devanshiec1034.wixsite.com/devanshi-portfolio)
-
-
-<br>  
 
 
 ## 🌱 Learning & Development
@@ -67,8 +61,6 @@ I'm always looking to learn new skills and stay up-to-date with the latest trend
 - **Data Engineering**: Advanced transformations with DBT and PySpark.
 - **Automation**: Streamlining CI/CD pipelines for data workflows.
 
-
-<br>  
 
 ## 🏆 Achievements & Certifications
 
