@@ -84,5 +84,6 @@ Check out my recent blog posts and articles:
 - [Use AWS Rekognition for Facial Recognition and Analysis](https://medium.com/@devanshiec1034/use-amazon-rekognition-for-facial-recognition-and-analysis-0c68ca6d579e)
 
 <br>  
-🌟 Thank you for visiting my GitHub profile!
+
+### 🌟  Thank you for visiting my GitHub profile!
 Feel free to dive into my repositories, explore my projects, and connect with me. Let's collaborate to build innovative data solutions and make an impact in the world of data engineering! 🚀
