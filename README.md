@@ -27,10 +27,10 @@ Here are some of the key projects I've worked on:
    - **Tech Used**: AWS (S3, Glue, Lambda), Snowflake, DBT  
    - **Description**: Built a scalable pipeline to process and transform streaming data into Snowflake for real-time analytics using AWS Glue and Lambda. Implemented ETL jobs in DBT for data transformations.
 
-### 2. **ETL Orchestration with Airflow**  
-   - **Tech Used**: Airflow, SQL, AWS  
-   - **Description**: Developed workflows in Airflow to automate and orchestrate complex ETL jobs. Integrated various data sources like S3 and RDS to create efficient and scalable workflows.
-
+### 2. **Airflow Data Pipeline: S3, Snowflake & DBT**  
+   - **Tech Used**: Airflow, Snowflake , AWS(S3), DBT 
+   - **Description**: This project demonstrates the use of Apache Airflow for orchestrating data pipelines by integrating with AWS S3, Snowflake, and DBT. It showcases building efficient workflows for tasks such as data extraction, transformation, and loading (ETL), along with advanced Airflow features like DAGs, task dependencies, hooks, XComs, and sensors.
+     
 ### 3. **DBT Pipeline for Travel Data Analytics**  
    - **Tech Used**: DBT, Snowflake  
    - **Description**: Designed data models and transformations using DBT to simplify data pipeline workflows and enhance data quality. Integrated DBT with Snowflake for optimized, automated data processing.
