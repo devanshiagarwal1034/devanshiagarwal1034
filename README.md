@@ -18,7 +18,6 @@ I specialize in:
 - **DevOps**: CI/CD with Jenkins, Docker  for data pipelines
 - **Big Data Technologies**: PySpark, AWS Glue, and Lambda functions for big data processing
 
-
 ## 💼 Projects
 
 Here are some of the key projects I've worked on:
@@ -46,14 +45,7 @@ Here are some of the key projects I've worked on:
 <img src="https://github.com/user-attachments/assets/ef4698eb-0ccb-4e04-ac4c-0989760791ba" alt="Snowflake" width="150"/>
 <img src="https://github.com/user-attachments/assets/e1d05643-6966-46ab-9152-78fe5d2d2f49" alt="Airflow" width="100"/>
 <img src="https://github.com/user-attachments/assets/48f5a4c2-8a21-4cfa-8458-7aebe8e605f3" alt="Airflow" width="70"/>
-<br>  
-
-## 🤝 Let's Connect
-
-- [**LinkedIn**](https://www.linkedin.com/in/devanshi-agarwal-23303223a/)
-- [**Email**](devanshiagarwal1034@gmail.com)
-- [**Personal Website**](https://devanshiec1034.wixsite.com/devanshi-portfolio)
-<br>  
+<br> 
 
 ## 🌱 Learning & Development
 
@@ -66,16 +58,19 @@ I'm always looking to learn new skills and stay up-to-date with the latest trend
 
 - 🏅 **AWS Certified Cloud Practitioner**  
 - 🏅 **Google Certified Data Analyst**  
-
-<br>  
+<br>
 
 ## 📝 Recent Blog Posts & Articles
 
 Check out my recent blog posts and articles:
 - [Building Scalable Data Pipelines with AWS](https://medium.com/@devanshiec1034/create-an-end-to-end-data-pipeline-to-ingest-transform-store-analyze-and-visualize-data-using-ec21aa56a769))
 - [Use AWS Rekognition for Facial Recognition and Analysis](https://medium.com/@devanshiec1034/use-amazon-rekognition-for-facial-recognition-and-analysis-0c68ca6d579e)
+<br>
 
-<br>  
+## 🤝 Let's Connect
+
+- [**LinkedIn**](https://www.linkedin.com/in/devanshi-agarwal-23303223a/)
+
 
 ### 🌟  Thank you for visiting my GitHub profile!
 Feel free to dive into my repositories, explore my projects, and connect with me. Let's collaborate to build innovative data solutions and make an impact in the world of data engineering! 🚀
