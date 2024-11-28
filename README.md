@@ -22,9 +22,9 @@ I specialize in:
 
 Here are some of the key projects I've worked on:
 
-### 1. **Data Pipeline for Real-time Analytics**  
-   - **Tech Used**: AWS (S3, Glue, Lambda), Snowflake, DBT  
-   - **Description**: Built a scalable pipeline to process and transform streaming data into Snowflake for real-time analytics using AWS Glue and Lambda. Implemented ETL jobs in DBT for data transformations.
+### 1. **S3 to Snowflake Data Pipeline**  
+   - **Tech Used**: AWS (S3, Glue, Lambda), Snowflake ( Snowpipe ,Stored Procedures,Tasks,Storage Integration,Stage) 
+   - **Description**: This project demonstrates a fully automated data pipeline that processes customer booking data stored in AWS S3 and loads it into Snowflake for seamless analysis. Leveraging AWS Lambda, Glue, and Snowpipe, the pipeline automates data ingestion, transformation, and loading.
 
 ### 2. **Airflow Data Pipeline: S3, Snowflake & DBT**  
    - **Tech Used**: Airflow, Snowflake , AWS(S3), DBT 
@@ -52,7 +52,7 @@ Here are some of the key projects I've worked on:
 I'm always looking to learn new skills and stay up-to-date with the latest trends in data engineering. Here are some areas I'm currently focusing on:
 - **Data Engineering**: Advanced transformations with DBT and PySpark.
 - **Automation**: Streamlining CI/CD pipelines for data workflows.
-<br>  
+<br>
 
 ## 🏆 Achievements & Certifications
 
